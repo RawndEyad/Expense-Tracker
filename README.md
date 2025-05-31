@@ -23,11 +23,13 @@ A simple and intuitive expense tracker app built with Flutter. Keep track of you
 # **Add Expense**  
 <img src="https://github.com/user-attachments/assets/9f16ffa7-eac6-4dd4-9067-1961fd972ac1" width="300" />
 
-## 🚀 Getting Started
+## 🧪 Getting Started
 
-To run this project locally:
+### 📋 Prerequisites
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
-   cd expense-tracker
+Make sure you have the following installed:
+
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- Android Studio or VS Code
+- A physical or virtual device
+
