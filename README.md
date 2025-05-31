@@ -32,4 +32,13 @@ Make sure you have the following installed:
 - [Flutter SDK](https://docs.flutter.dev/get-started/install)
 - Android Studio or VS Code
 - A physical or virtual device
+### ⚙️ Run Locally
+
+To run this project on your local machine:
+
+```bash
+git clone https://github.com/RawndEyad/Expense-Tracker.git
+cd Expense-Tracker
+flutter pub get
+flutter run
 
